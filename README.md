@@ -1,16 +1,23 @@
-### Hi there 👋
-
-<!--
-**josegmccausland/josegmccausland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<head>
+  <title>josegmccausland's README</title>
+</head>
+<body>
+  <div class="whoami">
+    <h1 class="name">Jose Garcia McCausland</h1>
+    <h2 class="from"><i class="fas fa-map-marker-alt"></i> Tampa, FL</h2>
+    <p class=fav_languages>
+      <dl>
+        <dt>Python</dt>
+          <dd>Flask</dd>
+        <dt>Javascript</dt>
+          <dd>React</dd>
+        <dt>Dart</dt>
+          <dd>Flutter</dd>
+      </dl>
+    </p>
+    <p class="contact">
+      <p>Let's chat!</p>
+      <p><i class="fas fa-envelope"></i>josegmccausland@gmail.com</p>
+    </p>
+  </div>
