@@ -4,7 +4,7 @@
     <h1 class="name">Jose Garcia McCausland</h1>
     <h2 class="from"><i class="fas fa-map-marker-alt"></i>Tampa, FL</h2>
     <div class=fav_languages>
-      <p>fav_languages</p>
+      <p>fav_languages: </p>
       <dl>
         <dt>Python</dt>
           <dd>Flask</dd>
