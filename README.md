@@ -10,6 +10,8 @@
           <dd>Flask</dd>
         <dt>Javascript</dt>
           <dd>React</dd>
+          <dd>NextJS</dd>
+          <dd>NodeJS</dd>
         <dt>Dart</dt>
           <dd>Flutter</dd>
       </dl>
